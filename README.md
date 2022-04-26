@@ -1,2 +1,2 @@
 # Parallel Programming
-Scheduling with threads and processes
+with Thread, Process and SIMD Vector
